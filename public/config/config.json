@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4895FCA4B5a9e958FDF298231d203EEB4A46aBb5",
+  "SCAN_LINK": "https://etherscan.io/address/0x4895FCA4B5a9e958FDF298231d203EEB4A46aBb5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Naomi No Sleep",
+  "SYMBOL": "NAOMI",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.07500000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/naomi-no-sleep",
+  "SHOW_BACKGROUND": true
+}
