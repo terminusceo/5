@@ -522,7 +522,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Naomi No Sleep is experimental NFT project. Are you ready to embark on a truly unique journey with Naomi? Over the course of five intense experimental game theory games, you'll have the power to shape the ultimate form of your Naomi.
+              Naomi No Sleep is an experimental NFT project. Are you ready to embark on a truly unique journey with Naomi? Over the course of five intense experimental game theory games, you'll have the power to shape the ultimate form of your Naomi.
               But make no mistake - this won't be an easy task. To maximize your benefits, you'll need patience, a bit of luck, and perhaps a few sleepless nights.
             </s.TextDescription>
 
