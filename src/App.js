@@ -263,6 +263,18 @@ function App() {
             <s.SpacerLarge />
             <s.SpacerLarge />
             <s.SpacerLarge />
+                
+                
+            <s.TextDescription
+              style={{
+                textAlign: "center",
+                fontSize: 35,
+                //fontWeight: "bold",
+                color: "var(--primary)",
+              }}
+            >
+              time to public mint:
+            </s.TextDescription>
 
 
 
