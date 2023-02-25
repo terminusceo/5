@@ -536,7 +536,7 @@ function App() {
               }}
             >
               There's nothing quite like the thrill of competition - and with Naomi No Sleep, the stakes are higher than ever. The top-performing Naomi participants will have access to exclusive rewards, including coveted apartments in the heart of Naomiland. But perhaps even more impressively,
-              this winner will also be inscribed onto the Bitcoin blockchain via Ordinals Protocol for free - a true badge of honor in the NFT world. Ready to test your strategy?
+              the winners will also be inscribed onto the Bitcoin blockchain via Ordinals Protocol for free - a true badge of honor in the NFT world. Ready to test your strategy?
             </s.TextDescription>
             <s.SpacerLarge />
             <s.SpacerLarge />
