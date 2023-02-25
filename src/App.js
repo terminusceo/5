@@ -264,16 +264,34 @@ function App() {
             <s.SpacerLarge />
             <s.SpacerLarge />
                 
-                
             <s.TextDescription
               style={{
                 textAlign: "center",
-                fontSize: 35,
+                fontSize: 70,
                 //fontWeight: "bold",
                 color: "var(--primary)",
               }}
             >
-              PUBLIC MINT OPEN
+              GAME 1 begins in:
+            </s.TextDescription>
+                
+                
+            <s.TextDescription
+              style={{
+                textAlign: "center",
+                fontSize: 70,
+                //fontWeight: "bold",
+                color: "var(--primary)",
+              }}
+            >
+              {truncate(
+                new Date(timeRemaining).toLocaleString("en-GB", {
+                  hour: "numeric",
+                  minute: "numeric",
+                  second: "numeric",
+                }),
+                10
+              )}
             </s.TextDescription>
 
 
