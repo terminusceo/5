@@ -853,7 +853,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Sarah Blackwood: Marketing Director
+              Sarah: Marketing Director
             </s.TextDescription>
 
             <s.TextDescription
@@ -879,7 +879,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Michael Lee: Lead Developer
+              Michael: Lead Developer
             </s.TextDescription>
 
             <s.TextDescription
@@ -904,7 +904,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Xander Blaze: Community Manager
+              Xander: Community Manager
             </s.TextDescription>
 
             <s.TextDescription
@@ -930,7 +930,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Alex Rodriguez: Art Director
+              Alex: Art Director
             </s.TextDescription>
 
             <s.TextDescription
@@ -941,7 +941,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Alex Rodriguez is a seasoned designer and digital artist with a passion for anime. With over a decade of experience in the industry,
+              Alex is a seasoned designer and digital artist with a passion for anime. With over a decade of experience in the industry,
               he has honed his skills in creating stunning and engaging visuals that capture the essence of Japanese animation.
               His love for the medium has led him to work on a number of high-profile anime-inspired projects, including mobile games, webcomics, and animated shorts.
               As a member of the Naomi team, Alex brings his unique perspective and creative flair to the development of the project,
@@ -958,7 +958,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              James Wong: Financial Advisor
+              James: Financial Advisor
             </s.TextDescription>
 
             <s.TextDescription
